@@ -15,8 +15,8 @@ Repository for documenting my path from self-study to expertise in AI
   - **Achievement**: Created this repository to track my study progress on AI
 
 2.
-  - **Date**:
-  - **Achievement**:
+  - **Date**: Nov 5, 2025 Wednesday
+  - **Achievement**: Finished a Coursera Course "Introduction to DL & NNs with Keras" by IBM (a part of a professional certificate program)
 
 ---
 
@@ -43,13 +43,31 @@ Repository for documenting my path from self-study to expertise in AI
 **Notes / Reflection**: 
   - Book "Deep Learning": I have two versions of this book. A physical book and e-book. I purchased and downloaded e-book version of this book on my phone. The e-book version is very useful when I'm really busy and only have a little time to read.
 
+### Nov 5, 2025 Wednesday
+
+**Today's Progress**: 
+  - Coursera Course "Introduction to DL & NNs with Keras" by IBM:
+    - Finished this course!
+
+**Notes / Reflection**: 
+  - Coursera Course: Finished this course. Looking forward to taking the next course of this "Professional Certificate" program.
+
+### Nov 12, 2025 Wednesday
+
+**Today's Progress**: 
+  - Book "Deep Learning" by Ian Goodfellow et al.:
+    - (1hr) Read 3.1 Why Probability?, 3.2 Random Variables, 3.3 Probability Distributions
+  
+**Notes / Reflection**: 
+  - Book "Deep Learning": Used Cornell's notetaking method when I studied these chapters.
+
 ---
 
 ## Learning Resources
 
 **Courses**
   - Coursera: "Introduction to DL & NNs with Keras" by IBM
-  
+
 **Books**
   - "Deep Learning" by Ian Goodfellow et al.
 
@@ -60,6 +78,7 @@ Repository for documenting my path from self-study to expertise in AI
 **Videos**
   - Youtuber: 3Blue1Brown (Great math resources)
   - Free MIT Lectures on Youtube / MIT OpenCourseWare
+  - MIT lectures on YouTube: "MIT 6.S191 Introduction to Deep Learning"
 
 ---
 
